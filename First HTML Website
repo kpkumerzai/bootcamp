@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html> 
+    
+    <head> 
+        <title>
+            SHREK PRODUCTS
+        </title>
+    </head>
+
+    <body> 
+        <h1>
+            SHREK Products for the EUROPE Market
+        </h1>
+        
+        <ul>
+            <li>
+                Menwear
+            </li> <img src="Shrek.jpeg" height="200">
+
+            <li> 
+                Womenwear
+            </li> <img src="Lady Shrek.jpeg" height="200">
+
+            <li>
+                Kids
+            </li> <img src="baby shrek.jpeg" height="200">
+            <li>
+                Foods
+            </li> <img src="Shrek food.jpeg" height="200">
+        </ul> 
+        <p> Why not try to become Shrek this newyear or christmass by using one of the Shrek Products</p>
+            <li>Email@Shrek.com<li>
+            <li> Contact@999 and ask for Shrek<li>
+    </body>
+</html>
